@@ -35,16 +35,6 @@
 			path = AIMoviePredictor;
 			sourceTree = "<group>";
 		};
-		58CBC2CA2ED635DA00B98260 /* AIMoviePredictorTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AIMoviePredictorTests;
-			sourceTree = "<group>";
-		};
-		58CBC2D42ED635DA00B98260 /* AIMoviePredictorUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AIMoviePredictorUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				58CBC2BC2ED635D900B98260 /* AIMoviePredictor */,
-				58CBC2CA2ED635DA00B98260 /* AIMoviePredictorTests */,
-				58CBC2D42ED635DA00B98260 /* AIMoviePredictorUITests */,
 				58CBC2BB2ED635D900B98260 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				58CBC2C92ED635DA00B98260 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				58CBC2CA2ED635DA00B98260 /* AIMoviePredictorTests */,
-			);
 			name = AIMoviePredictorTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				58CBC2D32ED635DA00B98260 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				58CBC2D42ED635DA00B98260 /* AIMoviePredictorUITests */,
 			);
 			name = AIMoviePredictorUITests;
 			packageProductDependencies = (
