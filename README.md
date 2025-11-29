@@ -4,6 +4,9 @@ Samantha Walter
 
 CAP 4630
 
+Presentation recording link:
+https://youtu.be/SIJ_oSzdtiY
+
 
 This project uses a neural network to predict whether a movie will be successul
 based on simple metadata such as budget, popularity, runtime, vote count, and vote average. 
