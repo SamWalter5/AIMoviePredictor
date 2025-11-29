@@ -1,5 +1,7 @@
 AI Movie Success Predictor
+
 Samantha Walter
+
 CAP 4630
 
 This project uses a neural network to predict whether a movie will be successul
